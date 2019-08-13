@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">AndroidPlayground</string>
+    <string name="edit_message">Enter a Message</string>
+    <string name="button_label">Send Message</string>
+    <string name="welcome_message">Welcome To Message Activity</string>
+    <string name="final_activity_message">Welcome To Final Activity</string>
+    <string name="final_activity_button">Open Final Activity</string>
+    <string name="button_label2">Fragments</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="android_versions">
+        <item>cupcake</item>
+        <item>Donut</item>
+        <item>Eclair</item>
+        <item>Froyo</item>
+        <item>Gingerbread</item>
+        <item>HoneyComb</item>
+        <item>IceCream Sandwich</item>
+        <item>JellyBean</item>
+        <item>kitkat</item>
+        <item>Lolipop</item>
+        <item>Marst</item>
+        <item>Oreo</item>
+        <item>Pie</item>
+    </string-array>
+    <string name="username">bibek</string>
+    <string name="password">bibek123</string>
+    <string name="login_preferences">com.example.androidplayground_login_preferences</string>
+    <string name="login_status_preferences">com.example.androidplayground_login_status_preferences</string>
+
+</resources>
