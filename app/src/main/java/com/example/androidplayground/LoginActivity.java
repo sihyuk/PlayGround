@@ -12,6 +12,7 @@ import com.google.android.material.textfield.TextInputEditText;
 
 public class LoginActivity extends AppCompatActivity {
 
+
     private SharedPreferenceconfig sharedPreferenceconfig;
     TextInputEditText edusername;
     EditText eduserpwd;
