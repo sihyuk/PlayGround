@@ -1,4 +1,4 @@
-package com.example.androidplayground;
+package com.example.androidplayground.DBHelper;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;

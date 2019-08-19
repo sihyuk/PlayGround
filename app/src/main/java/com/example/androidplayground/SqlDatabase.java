@@ -4,6 +4,8 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
+import com.example.androidplayground.DBHelper.DatabaseHelper;
+
 public class SqlDatabase extends AppCompatActivity {
 
     DatabaseHelper mydb;

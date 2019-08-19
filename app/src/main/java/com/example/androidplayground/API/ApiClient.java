@@ -1,4 +1,4 @@
-package com.example.androidplayground;
+package com.example.androidplayground.API;
 
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
